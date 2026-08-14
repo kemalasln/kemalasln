@@ -70,8 +70,7 @@ const kemal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kemalasln&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=1D4ED8&text_color=8B949E&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=kemalasln&hide_border=true&background=00000000&stroke=30363D&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=6E7681" alt="Streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=kemalasln&hide_border=true&background=00000000&stroke=30363D&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=6E7681" alt="Contribution streak" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kemalasln&bg_color=00000000&color=38BDF8&line=1D4ED8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 
